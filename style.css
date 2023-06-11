@@ -1,0 +1,74 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 05-Mar-2023, 18:32:35
+    Author     : Hi
+*/
+.aligned {
+  display:flex;
+  align-items:center;
+  justify-content:left
+}
+
+img {
+  width:88px;
+}
+
+.image {
+  flex-basis: 40%
+}
+span{padding:10px;            }
+
+.text {
+  color:royalblue;
+  font-size: 14px;font-weight: bold;  
+  padding-left: 10px;
+
+}
+.text p{font-size:12px; color: brown; font-weight: normal;         }
+.ngs{padding-left: 470px; font-size: 14px; font-weight: bold; color:royalblue; 
+                    }
+.ngs p{ color: brown;
+       }
+       
+.desc{
+    display: flex;
+    align-items: center;
+    justify-content: left
+          
+       }
+.desc img{border:1px solid black; 
+         width: 55%; height:400px;                }
+
+
+
+.ext{padding-left : 300px;
+    
+     border:1px solid black; width: 20%; height: 300px;
+     
+   font-size:16px; color: brown; font-weight: normal; }
+.std{
+    
+    font-size: 14px; color:black; font-weight: normal;
+}
+.vbn{
+    background-color:#00cccc;
+    padding-left: 490px;
+    text-align: right;
+    
+    font-weight: normal; color:blanchedalmond; 
+    
+}
+
+
+.row{
+    background-color: #009999;
+    font-weight: normal; color: white;
+}
+ 
+    
+
+
+
